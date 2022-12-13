@@ -1,0 +1,24 @@
+{
+  "name": "learn-express-hs",
+  "version": "0.0.1",
+  "description": "learning express",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "None"
+  },
+  "keywords": [
+    "gjAIschool",
+    "hs"
+  ],
+  "author": "hs",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "npx": "^10.2.2"
+  }
+}
