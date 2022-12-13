@@ -1,0 +1,14 @@
+{
+  "name": "npm_hs",
+  "version": "1.0.0",
+  "description": "descriptioin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"안녕하세요\" "
+  },
+  "keywords": [
+    "npm_hs"
+  ],
+  "author": "hs",
+  "license": "ISC"
+}
